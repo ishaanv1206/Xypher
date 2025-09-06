@@ -1,4 +1,4 @@
-# 🌊 Harbinger Enhanced: AI-Powered Disaster & Ocean Hazard Management System
+# 🌊 Harbinger : AI-Powered Disaster & Ocean Hazard Management System
 
 ## 🚀 Vision
 Harbinger Enhanced is a **next-generation AI-powered Disaster and Ocean Hazard Management System** for India.  
